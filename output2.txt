@@ -1,0 +1,5 @@
+Int kek before multiply method: 10
+Int kek after multiply method: 10
+
+String lel before add method: Shrek
+String lel after add method: Shrek 2

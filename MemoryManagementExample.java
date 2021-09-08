@@ -19,5 +19,6 @@ public class MemoryManagementExample {
 
     private static void addTwo(StringBuilder text) {
         text.append(" 2");
+        text = new StringBuilder("Сat");
     }
 }
