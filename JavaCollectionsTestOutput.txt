@@ -1,0 +1,15 @@
+put():
+Time to populate 10000000 entries in a HashMap: 112 ms
+Time to populate 10000000 entries in a TreeMap: 1484 ms
+
+get():
+Time to get() 10000000 entries in a HashMap: 57 ms
+Time to get() 10000000 entries in a TreeMap: 920 ms
+
+containsKey():
+Time to containsKey() 10000000 entries in a HashMap: 54 ms
+Time to containsKey() 10000000 entries in a TreeMap: 926 ms
+
+remove():
+Time to remove() 10000 entries in a HashMap: 2 ms
+Time to remove() 10000 entries in a TreeMap: 5 ms

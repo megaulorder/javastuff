@@ -1,0 +1,7 @@
+Int number before multiply method: 10
+Int num in multiply: 100
+Int number after multiply method: 10
+
+StringBuilder before add method: Shrek
+New stringBuilder in modify: Shrek 3
+StringBuilder after add method: Shrek 2
